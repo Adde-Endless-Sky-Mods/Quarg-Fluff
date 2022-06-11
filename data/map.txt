@@ -1,0 +1,60 @@
+#		-	-	-	-	-	-	-	-	-	-
+#	Override
+#		-	-	-	-	-	-	-	-	-	-
+
+system Chikatip
+	add fleet "quarg defence" 12000
+
+system Chornifath
+	add fleet "quarg defence" 12000
+
+system Dokdobaru
+	add fleet "quarg defence" 12000
+
+system Farbutero
+	add fleet "quarg defence" 12000
+
+system Feroteri
+	add fleet "quarg defence" 12000
+
+system Fornarep
+	add fleet "quarg defence" 12000
+
+system Furmeliki
+	add fleet "quarg defence" 12000
+
+system Hesselpost
+	add fleet "quarg defence" 12000
+
+system Kaliptari
+	add fleet "quarg defence" 12000
+
+system Kashikt
+	add fleet "quarg defence" 12000
+
+system Korsmanath
+	add fleet "quarg defence" 12000
+
+system Meftarkata
+	add fleet "quarg defence" 12000
+
+system Sabriset
+	add fleet "quarg defence" 12000
+
+system Seketra
+	add fleet "quarg defence" 12000
+
+system Sepriaptu
+	add fleet "quarg defence" 12000
+
+system Sevrelect
+	add fleet "quarg defence" 12000
+
+system Skeruto
+	add fleet "quarg defence" 12000
+
+system Solifar
+	add fleet "quarg defence" 12000
+
+system Sumprast
+	add fleet "quarg defence" 12000

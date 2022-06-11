@@ -1,0 +1,9 @@
+#		-	-	-	-	-	-	-	-	-	-
+#	Shipyards
+#		-	-	-	-	-	-	-	-	-	-
+
+shipyard "plugins"
+#		LW
+	"Quarg Oriole"
+#		MW
+	"Quarg Hydra"
