@@ -40,3 +40,16 @@ system Solifar
 	add fleet "quarg protectionist 20000
 system Sumprast
 	add fleet "quarg protectionist 12500
+
+planet "Alta Hai"
+	tribute 22000
+		threshold 8000
+		fleet "quarg protectionist" 12
+planet "Kuwaru Efreti"
+	tribute 17000
+		threshold 8000
+		fleet "quarg protectionist" 10
+planet Lagrange
+	tribute 18000
+		threshold 8000
+		fleet "quarg protectionist" 10
