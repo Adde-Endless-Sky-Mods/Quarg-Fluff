@@ -2,24 +2,11 @@
 #	Fleets
 #		-	-	-	-	-	-	-	-	-	-
 
-fleet "quarg heavy policing"
+fleet "quarg protectionist"
 	government Quarg
 	personality
 		forbearing
 		opportunistic
-	variant 2
-		"Quarg Hydra"
-	variant 3
-		"Quarg Hydra"
-		"Quarg Wardragon"
-	variant 5
-		"Quarg Hydra" 2
-
-#		-	-	-	-	-	-	-	-	-	-
-#	Override
-#		-	-	-	-	-	-	-	-	-	-
-
-fleet "Large Quarg"
 	variant
 		"Quarg Hydra" 3
 		"Quarg Wardragon"
@@ -35,6 +22,19 @@ fleet "Large Quarg"
 	variant 2
 		"Quarg Hydra"
 		"Quarg Wardragon" 2
+
+#		-	-	-	-	-	-	-	-	-	-
+#	Override
+#		-	-	-	-	-	-	-	-	-	-
+
+fleet "Large Quarg"
+	variant 2
+		"Quarg Hydra"
+	variant 3
+		"Quarg Hydra"
+		"Quarg Wardragon"
+	variant 5
+		"Quarg Hydra" 2
 fleet "Quarg"
 	variant 2
 		"Quarg Oriole"
